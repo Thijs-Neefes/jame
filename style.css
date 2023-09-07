@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-left: 11rem;
+    padding-right:11rem;
+    height: 4.370rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 0.125rem 0.25rem 0px
+
+
+}
+
+
+
+.logo{
+    width: auto;
+    height: 130%;
+}
+.weer{
+    width: auto;
+    height: 60%;
+
+}
+
+.spy{
+    width: auto;
+    height: 60%;
+
+}
+.dots{
+    font-size: 2.8rem;
+}
+.npo{
+    width: auto;
+    height: 50%;
+}
+
+.icon_div{
+
+    height: 100%;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    gap: 1.8rem;
+}
+.logo_div{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 1.8rem;
+}
+.logo_div > a{
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: rgb(102, 102, 102)
+
+
+}
