@@ -21,7 +21,7 @@ header{
 
 .logo{
     width: auto;
-    height: 130%;
+    height: 120%;
 }
 .weer{
     width: auto;
@@ -62,4 +62,36 @@ header{
     color: rgb(102, 102, 102)
 
 
+}
+
+
+footer{
+
+}
+.footer-top{
+height: 37rem;
+
+}
+.bootem-footer{
+    height: 5.2rem;
+    border-top: 1px solid rgb(238, 238, 238);
+    display: flex;
+    padding-left: 11rem;
+    padding-right:11rem;
+    justify-content: space-between;
+    align-items: center;
+
+}
+main{
+    height: 70rem;
+}
+
+.red-hov:hover{
+    color: red ;
+
+}
+
+.footer-icons{
+    height: 2rem;
+    width: auto;
 }
